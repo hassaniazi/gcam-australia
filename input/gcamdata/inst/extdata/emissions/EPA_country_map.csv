@@ -23,7 +23,7 @@ Burkina Faso,bfa,5
 Bangladesh,bgd,27
 Bulgaria,bgr,12
 Bahrain,bhr,21
-Bahamas, The,bhs,9
+"Bahamas, The",bhs,9
 Bahamas,bhs,9
 Bosnia and Herzegovina,bih,15
 Belarus,blr,14
@@ -74,7 +74,7 @@ Fiji,fji,29
 Falkland Islands,flk,13
 France,fra,13
 Faeroe Islands,fro,13
-Micronesia, Federated States of,fsm,29
+"Micronesia, Federated States of",fsm,29
 Micronesia (Federated States of),fsm,29
 Gabon,gab,5
 United Kingdom,gbr,13
@@ -84,7 +84,7 @@ Gibraltar,gib,13
 Guinea,gin,5
 NA,global,NA
 Guadeloupe,glp,9
-Gambia, The,gmb,5
+"Gambia, The",gmb,5
 Gambia,gmb,5
 Guinea-Bissau,gnb,5
 Equatorial Guinea,gnq,5
@@ -117,7 +117,7 @@ Kyrgyzstan,kgz,10
 Cambodia,khm,29
 Kiribati,kir,29
 Saint Kitts and Nevis,kna,9
-Korea, South,kor,28
+"Korea, South",kor,28
 South Korea,kor,28
 Kuwait,kwt,21
 Laos,lao,29
@@ -170,7 +170,7 @@ Palau,plw,29
 Papua New Guinea,png,29
 Poland,pol,12
 Puerto Rico,pri,1
-Korea, North,prk,29
+"Korea, North",prk,29
 North Korea,prk,29
 Portugal,prt,13
 Paraguay,pry,26
