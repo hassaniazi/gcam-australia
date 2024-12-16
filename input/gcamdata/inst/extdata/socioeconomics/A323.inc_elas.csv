@@ -5,7 +5,7 @@
 # ----------
 region,year,inc_elas
 Africa_Eastern,2010,0
-Africa_Eastern,2015,4.6654E-15
+Africa_Eastern,2015,4.67E-15
 Africa_Eastern,2020,6.097358423
 Africa_Eastern,2025,6.554594773
 Africa_Eastern,2030,4.713872856
@@ -612,3 +612,22 @@ USA,2085,-1.310069118
 USA,2090,-1.413722293
 USA,2095,-1.496536898
 USA,2100,-1.573124075
+Australia,2010,0
+Australia,2015,-6.406940423
+Australia,2020,0.537541403
+Australia,2025,0.420907363
+Australia,2030,0.337322598
+Australia,2035,0.2291971
+Australia,2040,0.15012319
+Australia,2045,0.085872264
+Australia,2050,0.001546698
+Australia,2055,-0.087400668
+Australia,2060,-0.145515793
+Australia,2065,-0.233413193
+Australia,2070,-0.319043633
+Australia,2075,-0.423538488
+Australia,2080,-0.524047488
+Australia,2085,-0.632496259
+Australia,2090,-0.724457886
+Australia,2095,-0.795296542
+Australia,2100,-0.85858482

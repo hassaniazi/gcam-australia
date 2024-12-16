@@ -113,6 +113,33 @@ Japan,geothermal,recirculating,fresh,0.6,0.6,0.6,0.6,0.6,0.6
 Japan,geothermal,dry_hybrid,fresh,0.4,0.4,0.4,0.4,0.4,0.4
 Japan,CSP,recirculating,fresh,0.5,0.5,0.5,0.5,0.5,0.5
 Japan,CSP,dry_hybrid,fresh,0.5,0.5,0.5,0.5,0.5,0.5
+Australia,coal,once through,fresh,0.12512,0.12512,0.12512,0.12512,0.17,0.17
+Australia,coal,once through,seawater,0.24288,0.24288,0.24288,0.24288,0.33,0.33
+Australia,coal,recirculating,fresh,0.563240299,0.563240299,0.563240299,0.563240299,0.2,0.2
+Australia,coal,cooling pond,fresh,0,0,0,0,0,0
+Australia,coal,dry cooling,fresh,0.068753867,0.068753867,0.068753867,0.068753867,0.3,0.3
+Australia,fossil non-coal,once through,fresh,0.34,0.34,0.34,0.34,0.17,0.17
+Australia,fossil non-coal,once through,seawater,0.66,0.66,0.66,0.66,0.33,0.33
+Australia,fossil non-coal,recirculating,fresh,0,0,0,0,0.2,0.2
+Australia,fossil non-coal,cooling pond,fresh,0,0,0,0,0,0
+Australia,fossil non-coal,dry cooling,fresh,0,0,0,0,0.3,0.3
+Australia,combined cycle,once through,fresh,0.169694,0.169694,0.169694,0.169694,0.17,0.17
+Australia,combined cycle,once through,seawater,0.329406,0.329406,0.329406,0.329406,0.33,0.33
+Australia,combined cycle,recirculating,fresh,0.500924947,0.500924947,0.500924947,0.500924947,0.2,0.2
+Australia,combined cycle,cooling pond,fresh,0,0,0,0,0,0
+Australia,combined cycle,dry cooling,fresh,0,0,0,0,0.3,0.3
+Australia,nuclear,once through,fresh,0,0,0,0,0,0
+Australia,nuclear,once through,seawater,1,1,1,1,1,1
+Australia,nuclear,recirculating,fresh,0,0,0,0,0,0
+Australia,nuclear,cooling pond,fresh,0,0,0,0,0,0
+Australia,IGCC,once through,fresh,0.12512,0.12512,0.12512,0.12512,0.17,0.17
+Australia,IGCC,once through,seawater,0.24288,0.24288,0.24288,0.24288,0.33,0.33
+Australia,IGCC,recirculating,fresh,0.563240299,0.563240299,0.563240299,0.563240299,0.2,0.2
+Australia,IGCC,dry cooling,fresh,0.068753867,0.068753867,0.068753867,0.068753867,0.3,0.3
+Australia,geothermal,recirculating,fresh,0.6,0.6,0.6,0.6,0.6,0.6
+Australia,geothermal,dry_hybrid,fresh,0.4,0.4,0.4,0.4,0.4,0.4
+Australia,CSP,recirculating,fresh,0.5,0.5,0.5,0.5,0.5,0.5
+Australia,CSP,dry_hybrid,fresh,0.5,0.5,0.5,0.5,0.5,0.5
 NZ,coal,once through,fresh,0.12512,0.12512,0.12512,0.12512,0.17,0.17
 NZ,coal,once through,seawater,0.24288,0.24288,0.24288,0.24288,0.33,0.33
 NZ,coal,recirculating,fresh,0.563240299,0.563240299,0.563240299,0.563240299,0.2,0.2

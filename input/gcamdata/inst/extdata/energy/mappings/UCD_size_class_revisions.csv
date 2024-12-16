@@ -14,6 +14,10 @@ NZ,LDV_4W,Compact Car,LDV_4W,Car
 NZ,LDV_4W,Midsize Car,LDV_4W,Car
 NZ,LDV_4W,Large Car,LDV_4W,Large Car and Truck
 NZ,LDV_4W,Light Truck and SUV,LDV_4W,Large Car and Truck
+Australia,LDV_4W,Compact Car,LDV_4W,Car
+Australia,LDV_4W,Midsize Car,LDV_4W,Car
+Australia,LDV_4W,Large Car,LDV_4W,Large Car and Truck
+Australia,LDV_4W,Light Truck and SUV,LDV_4W,Large Car and Truck
 Brazil,LDV_4W,Mini Car,LDV_4W,Mini Car
 Brazil,LDV_4W,Subcompact Car,LDV_4W,Car
 Brazil,LDV_4W,Compact Car,LDV_4W,Car
@@ -72,6 +76,9 @@ Africa,Truck,Truck (9-16t),Truck,Heavy truck
 NZ,Truck,Truck (0-1t),Truck,Light truck
 NZ,Truck,Truck (1-6t),Truck,Light truck
 NZ,Truck,Truck (6-30t),Truck,Heavy truck
+Australia,Truck,Truck (0-1t),Truck,Light truck
+Australia,Truck,Truck (1-6t),Truck,Light truck
+Australia,Truck,Truck (6-30t),Truck,Heavy truck
 Canada,Truck,Truck (0-4.5t),Truck,Light truck
 Canada,Truck,Truck (4.5-15t),Truck,Medium truck
 Canada,Truck,Truck (>15t),Truck,Heavy truck
@@ -119,6 +126,7 @@ Brazil,Truck,Truck (>15t),Truck,Heavy truck
 Africa,LDV_2W,Motorcycle (50-250cc),LDV_2W_3W,2W and 3W
 Africa,LDV_3W,Three-Wheeler,LDV_2W_3W,2W and 3W
 NZ,LDV_2W,Motorcycle (>250cc),LDV_2W_3W,2W and 3W
+Australia,LDV_2W,Motorcycle (>250cc),LDV_2W_3W,2W and 3W
 Canada,LDV_2W,Motorcycle (>250cc),LDV_2W_3W,2W and 3W
 China,LDV_2W,Motorcycle (50-250cc),LDV_2W_3W,2W and 3W
 China,LDV_3W,Three-Wheeler,LDV_2W_3W,2W and 3W
@@ -157,6 +165,8 @@ Africa,Air Domestic,All,Air Domestic,All
 Africa,Air International,All,Air International,All
 NZ,Air Domestic,All,Air Domestic,All
 NZ,Air International,All,Air International,All
+Australia,Air Domestic,All,Air Domestic,All
+Australia,Air International,All,Air International,All
 Canada,Air Domestic,All,Air Domestic,All
 Canada,Air International,All,Air International,All
 China,Air Domestic,All,Air Domestic,All
@@ -191,6 +201,11 @@ NZ,HSR,All,HSR,All
 NZ,Rail,All,Rail,All
 NZ,Ship Domestic,All,Ship Domestic,All
 NZ,Ship International,All,Ship International,All
+Australia,Bus,All,Bus,All
+Australia,HSR,All,HSR,All
+Australia,Rail,All,Rail,All
+Australia,Ship Domestic,All,Ship Domestic,All
+Australia,Ship International,All,Ship International,All
 Canada,Bus,All,Bus,All
 Canada,HSR,All,HSR,All
 Canada,Rail,All,Rail,All
@@ -254,6 +269,8 @@ Africa,Walk,All,Walk,All
 Africa,Cycle,All,Cycle,All
 NZ,Walk,All,Walk,All
 NZ,Cycle,All,Cycle,All
+Australia,Walk,All,Walk,All
+Australia,Cycle,All,Cycle,All
 Canada,Walk,All,Walk,All
 Canada,Cycle,All,Cycle,All
 China,Walk,All,Walk,All
@@ -281,6 +298,7 @@ Western Europe,Cycle,All,Cycle,All
 Africa,LDV_3W,All,LDV_3W,All
 Africa,LDV_4W,All,LDV_4W,All
 NZ,LDV_4W,All,LDV_4W,All
+Australia,LDV_4W,All,LDV_4W,All
 Canada,LDV_4W,All,LDV_4W,All
 China,LDV_3W,All,LDV_3W,All
 China,LDV_4W,All,LDV_4W,All

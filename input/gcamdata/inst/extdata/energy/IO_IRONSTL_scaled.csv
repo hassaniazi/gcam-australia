@@ -106,6 +106,31 @@ Argentina,31,iron and steel,EAF with DRI,Hydrogen-based DRI,2010,elect_td_ind,0
 Argentina,31,iron and steel,EAF with scrap,EAF with scrap,2010,refined liquids industrial,0.001991659
 Argentina,31,iron and steel,EAF with scrap,EAF with scrap,2010,elect_td_ind,0
 Argentina,31,iron and steel,EAF with scrap,EAF with scrap,2010,scrap,1.1
+Australia,33,iron and steel,BLASTFUR,BLASTFUR,2010,delivered coal,0.022894159
+Australia,33,iron and steel,BLASTFUR,BLASTFUR,2010,refined liquids industrial,0.000134884
+Australia,33,iron and steel,BLASTFUR,BLASTFUR,2010,elect_td_ind,0.001707631
+Australia,33,iron and steel,BLASTFUR,BLASTFUR,2010,wholesale gas,0.001525722
+Australia,33,iron and steel,BLASTFUR,BLASTFUR CCS,2010,delivered coal,0.022894159
+Australia,33,iron and steel,BLASTFUR,BLASTFUR CCS,2010,refined liquids industrial,0.000134884
+Australia,33,iron and steel,BLASTFUR,BLASTFUR CCS,2010,elect_td_ind,0.001707631
+Australia,33,iron and steel,BLASTFUR,BLASTFUR CCS,2010,wholesale gas,0.001525722
+Australia,33,iron and steel,BLASTFUR,Biomass-based,2010,delivered biomass,
+Australia,33,iron and steel,BLASTFUR,Biomass-based,2010,refined liquids industrial,0.000134884
+Australia,33,iron and steel,BLASTFUR,Biomass-based,2010,elect_td_ind,0.001707631
+Australia,33,iron and steel,BLASTFUR,Biomass-based,2010,wholesale gas,0.001525722
+Australia,33,iron and steel,EAF with DRI,EAF with DRI,2010,delivered coal,0.001212692
+Australia,33,iron and steel,EAF with DRI,EAF with DRI,2010,refined liquids industrial,5.78E-05
+Australia,33,iron and steel,EAF with DRI,EAF with DRI,2010,elect_td_ind,0.005227442
+Australia,33,iron and steel,EAF with DRI,EAF with DRI,2010,wholesale gas,0.00828249
+Australia,33,iron and steel,EAF with DRI,EAF with DRI CCS,2010,delivered coal,0.001212692
+Australia,33,iron and steel,EAF with DRI,EAF with DRI CCS,2010,refined liquids industrial,5.78E-05
+Australia,33,iron and steel,EAF with DRI,EAF with DRI CCS,2010,elect_td_ind,0.005227442
+Australia,33,iron and steel,EAF with DRI,EAF with DRI CCS,2010,wholesale gas,0.00828249
+Australia,33,iron and steel,EAF with DRI,Hydrogen-based DRI,2010,H2 enduse,0
+Australia,33,iron and steel,EAF with DRI,Hydrogen-based DRI,2010,elect_td_ind,0.005227442
+Australia,33,iron and steel,EAF with scrap,EAF with scrap,2010,refined liquids industrial,3.85E-05
+Australia,33,iron and steel,EAF with scrap,EAF with scrap,2010,elect_td_ind,0.003833457
+Australia,33,iron and steel,EAF with scrap,EAF with scrap,2010,scrap,1.1
 NZ,6,iron and steel,BLASTFUR,BLASTFUR,2010,delivered coal,0.022894159
 NZ,6,iron and steel,BLASTFUR,BLASTFUR,2010,refined liquids industrial,0.000134884
 NZ,6,iron and steel,BLASTFUR,BLASTFUR,2010,elect_td_ind,0.001707631

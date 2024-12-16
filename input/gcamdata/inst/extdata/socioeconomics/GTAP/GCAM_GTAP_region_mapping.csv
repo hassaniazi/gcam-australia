@@ -5,7 +5,7 @@
 # Column types: ccc 
 # ----------
 GTAPv10_region,GTAP_Long_Name,GCAM_region
-aus,Australia,NZ
+aus,Australia,Australia
 nzl,New Zealand,NZ
 xoc,Rest of Oceania,Southeast Asia
 chn,China,China
