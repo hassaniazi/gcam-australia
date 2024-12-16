@@ -6,7 +6,7 @@
 # ----------
 region_GCAM3,supplysector,subsector,2100
 Africa,electricity,wind,1
-Australia_NZ,electricity,wind,1
+NZ,electricity,wind,1
 Canada,electricity,wind,1
 China,electricity,wind,1
 Eastern Europe,electricity,wind,1
@@ -20,7 +20,7 @@ Southeast Asia,electricity,wind,1
 USA,electricity,wind,1
 Western Europe,electricity,wind,1
 Africa,electricity,solar,1
-Australia_NZ,electricity,solar,1
+NZ,electricity,solar,1
 Canada,electricity,solar,1
 China,electricity,solar,1
 Eastern Europe,electricity,solar,1
@@ -34,7 +34,7 @@ Southeast Asia,electricity,solar,1
 USA,electricity,solar,1
 Western Europe,electricity,solar,1
 Africa,electricity,biomass,1
-Australia_NZ,electricity,biomass,1
+NZ,electricity,biomass,1
 Canada,electricity,biomass,1
 China,electricity,biomass,1
 Eastern Europe,electricity,biomass,1
@@ -48,7 +48,7 @@ Southeast Asia,electricity,biomass,1
 USA,electricity,biomass,1
 Western Europe,electricity,biomass,1
 Africa,electricity,geothermal,1
-Australia_NZ,electricity,geothermal,1
+NZ,electricity,geothermal,1
 Canada,electricity,geothermal,1
 China,electricity,geothermal,1
 Eastern Europe,electricity,geothermal,1

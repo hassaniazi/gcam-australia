@@ -22,24 +22,24 @@ Africa,bld_comm,electricity,comm others,0.339888111
 Africa,bld_comm,gas,comm others,0.033304979
 Africa,bld_comm,heat,comm others,0
 Africa,bld_comm,refined liquids,comm others,0.174791599
-Australia_NZ,bld_comm,biomass,comm cooling,0
-Australia_NZ,bld_comm,coal,comm cooling,0
-Australia_NZ,bld_comm,electricity,comm cooling,0.08
-Australia_NZ,bld_comm,gas,comm cooling,0
-Australia_NZ,bld_comm,heat,comm cooling,0
-Australia_NZ,bld_comm,refined liquids,comm cooling,0
-Australia_NZ,bld_comm,biomass,comm heating,0.000771945
-Australia_NZ,bld_comm,coal,comm heating,0
-Australia_NZ,bld_comm,electricity,comm heating,0.024
-Australia_NZ,bld_comm,gas,comm heating,0.083228055
-Australia_NZ,bld_comm,heat,comm heating,0
-Australia_NZ,bld_comm,refined liquids,comm heating,0.012
-Australia_NZ,bld_comm,biomass,comm others,0
-Australia_NZ,bld_comm,coal,comm others,0.003087781
-Australia_NZ,bld_comm,electricity,comm others,0.630671372
-Australia_NZ,bld_comm,gas,comm others,0.076564623
-Australia_NZ,bld_comm,heat,comm others,0
-Australia_NZ,bld_comm,refined liquids,comm others,0.089676224
+NZ,bld_comm,biomass,comm cooling,0
+NZ,bld_comm,coal,comm cooling,0
+NZ,bld_comm,electricity,comm cooling,0.08
+NZ,bld_comm,gas,comm cooling,0
+NZ,bld_comm,heat,comm cooling,0
+NZ,bld_comm,refined liquids,comm cooling,0
+NZ,bld_comm,biomass,comm heating,0.000771945
+NZ,bld_comm,coal,comm heating,0
+NZ,bld_comm,electricity,comm heating,0.024
+NZ,bld_comm,gas,comm heating,0.083228055
+NZ,bld_comm,heat,comm heating,0
+NZ,bld_comm,refined liquids,comm heating,0.012
+NZ,bld_comm,biomass,comm others,0
+NZ,bld_comm,coal,comm others,0.003087781
+NZ,bld_comm,electricity,comm others,0.630671372
+NZ,bld_comm,gas,comm others,0.076564623
+NZ,bld_comm,heat,comm others,0
+NZ,bld_comm,refined liquids,comm others,0.089676224
 Canada,bld_comm,biomass,comm cooling,0
 Canada,bld_comm,coal,comm cooling,0
 Canada,bld_comm,electricity,comm cooling,0.024
@@ -275,25 +275,25 @@ Africa,bld_resid,gas,resid others modern,0.01919793
 Africa,bld_resid,heat,resid others modern,0
 Africa,bld_resid,refined liquids,resid others modern,0.032215395
 Africa,bld_resid,traditional biomass,resid others TradBio,0.740294308
-Australia_NZ,bld_resid,biomass,resid cooling modern,0
-Australia_NZ,bld_resid,electricity,resid cooling modern,0.04
-Australia_NZ,bld_resid,gas,resid cooling modern,0
-Australia_NZ,bld_resid,heat,resid cooling modern,0
-Australia_NZ,bld_resid,refined liquids,resid cooling modern,0
-Australia_NZ,bld_resid,coal,resid heating coal,0
-Australia_NZ,bld_resid,biomass,resid heating modern,0
-Australia_NZ,bld_resid,electricity,resid heating modern,0.034
-Australia_NZ,bld_resid,gas,resid heating modern,0.20759764
-Australia_NZ,bld_resid,heat,resid heating modern,0
-Australia_NZ,bld_resid,refined liquids,resid heating modern,0.017
-Australia_NZ,bld_resid,traditional biomass,resid heating TradBio,0.08140236
-Australia_NZ,bld_resid,coal,resid others coal,0.000861401
-Australia_NZ,bld_resid,biomass,resid others modern,0
-Australia_NZ,bld_resid,electricity,resid others modern,0.458001034
-Australia_NZ,bld_resid,gas,resid others modern,0.105435352
-Australia_NZ,bld_resid,heat,resid others modern,0
-Australia_NZ,bld_resid,refined liquids,resid others modern,0.020815488
-Australia_NZ,bld_resid,traditional biomass,resid others TradBio,0.034886726
+NZ,bld_resid,biomass,resid cooling modern,0
+NZ,bld_resid,electricity,resid cooling modern,0.04
+NZ,bld_resid,gas,resid cooling modern,0
+NZ,bld_resid,heat,resid cooling modern,0
+NZ,bld_resid,refined liquids,resid cooling modern,0
+NZ,bld_resid,coal,resid heating coal,0
+NZ,bld_resid,biomass,resid heating modern,0
+NZ,bld_resid,electricity,resid heating modern,0.034
+NZ,bld_resid,gas,resid heating modern,0.20759764
+NZ,bld_resid,heat,resid heating modern,0
+NZ,bld_resid,refined liquids,resid heating modern,0.017
+NZ,bld_resid,traditional biomass,resid heating TradBio,0.08140236
+NZ,bld_resid,coal,resid others coal,0.000861401
+NZ,bld_resid,biomass,resid others modern,0
+NZ,bld_resid,electricity,resid others modern,0.458001034
+NZ,bld_resid,gas,resid others modern,0.105435352
+NZ,bld_resid,heat,resid others modern,0
+NZ,bld_resid,refined liquids,resid others modern,0.020815488
+NZ,bld_resid,traditional biomass,resid others TradBio,0.034886726
 Canada,bld_resid,biomass,resid cooling modern,0
 Canada,bld_resid,electricity,resid cooling modern,0.01
 Canada,bld_resid,gas,resid cooling modern,0
@@ -550,10 +550,10 @@ India,bld_comm,hydrogen,comm others,0
 India,bld_comm,hydrogen,comm heating,0
 India,bld_resid,hydrogen,resid others modern,0
 India,bld_resid,hydrogen,resid heating modern,0
-Australia_NZ,bld_comm,hydrogen,comm others,0
-Australia_NZ,bld_comm,hydrogen,comm heating,0
-Australia_NZ,bld_resid,hydrogen,resid others modern,0
-Australia_NZ,bld_resid,hydrogen,resid heating modern,0
+NZ,bld_comm,hydrogen,comm others,0
+NZ,bld_comm,hydrogen,comm heating,0
+NZ,bld_resid,hydrogen,resid others modern,0
+NZ,bld_resid,hydrogen,resid heating modern,0
 Africa,bld_comm,hydrogen,comm others,0
 Africa,bld_comm,hydrogen,comm heating,0
 Africa,bld_resid,hydrogen,resid others modern,0

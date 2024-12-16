@@ -5,7 +5,7 @@
 # Original source: NA
 # Column types: ii 
 # ----------
-GCAM_region_ID,soilTimeScale
+"GCAM_region_ID","soilTimeScale"
 1,50
 2,25
 3,25
@@ -38,3 +38,4 @@ GCAM_region_ID,soilTimeScale
 30,50
 31,50
 32,25
+33,50

@@ -9,7 +9,7 @@ Africa_Eastern,2015,0.124
 Africa_Northern,2015,0.383
 Africa_Southern,2015,0.15
 Africa_Western,2015,0.157
-Australia_NZ,2015,-0.1
+NZ,2015,-0.1
 Brazil,2015,0.333
 Canada,2015,-1.2
 Central America and Caribbean,2015,0.549
@@ -41,7 +41,7 @@ Africa_Eastern,2020,0.129
 Africa_Northern,2020,0.485
 Africa_Southern,2020,0.17
 Africa_Western,2020,0.179
-Australia_NZ,2020,-0.1
+NZ,2020,-0.1
 Brazil,2020,0.315
 Canada,2020,-0.1
 Central America and Caribbean,2020,0.532
@@ -73,7 +73,7 @@ Africa_Eastern,2025,0.136
 Africa_Northern,2025,0.533
 Africa_Southern,2025,0.197
 Africa_Western,2025,0.221
-Australia_NZ,2025,-0.1
+NZ,2025,-0.1
 Brazil,2025,0.261
 Canada,2025,-0.1
 Central America and Caribbean,2025,0.506
@@ -105,7 +105,7 @@ Africa_Eastern,2030,0.144
 Africa_Northern,2030,0.5
 Africa_Southern,2030,0.225
 Africa_Western,2030,0.272
-Australia_NZ,2030,-0.1
+NZ,2030,-0.1
 Brazil,2030,0.211
 Canada,2030,-0.1
 Central America and Caribbean,2030,0.478
@@ -137,7 +137,7 @@ Africa_Eastern,2035,0.16
 Africa_Northern,2035,0.465
 Africa_Southern,2035,0.257
 Africa_Western,2035,0.354
-Australia_NZ,2035,-0.1
+NZ,2035,-0.1
 Brazil,2035,0.178
 Canada,2035,-0.1
 Central America and Caribbean,2035,0.446
@@ -169,7 +169,7 @@ Africa_Eastern,2040,0.197
 Africa_Northern,2040,0.426
 Africa_Southern,2040,0.299
 Africa_Western,2040,0.479
-Australia_NZ,2040,-0.1
+NZ,2040,-0.1
 Brazil,2040,0.147
 Canada,2040,-0.1
 Central America and Caribbean,2040,0.41
@@ -201,7 +201,7 @@ Africa_Eastern,2045,0.246
 Africa_Northern,2045,0.385
 Africa_Southern,2045,0.392
 Africa_Western,2045,0.533
-Australia_NZ,2045,-0.1
+NZ,2045,-0.1
 Brazil,2045,0.115
 Canada,2045,-0.1
 Central America and Caribbean,2045,0.368
@@ -233,7 +233,7 @@ Africa_Eastern,2050,0.31
 Africa_Northern,2050,0.339
 Africa_Southern,2050,0.515
 Africa_Western,2050,0.496
-Australia_NZ,2050,-0.1
+NZ,2050,-0.1
 Brazil,2050,0.081
 Canada,2050,-0.1
 Central America and Caribbean,2050,0.32
@@ -265,7 +265,7 @@ Africa_Eastern,2055,0.436
 Africa_Northern,2055,0.289
 Africa_Southern,2055,0.526
 Africa_Western,2055,0.449
-Australia_NZ,2055,-0.1
+NZ,2055,-0.1
 Brazil,2055,0.046
 Canada,2055,-0.1
 Central America and Caribbean,2055,0.265
@@ -297,7 +297,7 @@ Africa_Eastern,2060,0.542
 Africa_Northern,2060,0.233
 Africa_Southern,2060,0.488
 Africa_Western,2060,0.391
-Australia_NZ,2060,-0.1
+NZ,2060,-0.1
 Brazil,2060,0.019
 Canada,2060,-0.1
 Central America and Caribbean,2060,0.204
@@ -329,7 +329,7 @@ Africa_Eastern,2065,0.504
 Africa_Northern,2065,0.183
 Africa_Southern,2065,0.442
 Africa_Western,2065,0.323
-Australia_NZ,2065,-0.1
+NZ,2065,-0.1
 Brazil,2065,-0.009
 Canada,2065,-0.1
 Central America and Caribbean,2065,0.161
@@ -361,7 +361,7 @@ Africa_Eastern,2070,0.459
 Africa_Northern,2070,0.143
 Africa_Southern,2070,0.386
 Africa_Western,2070,0.243
-Australia_NZ,2070,-0.1
+NZ,2070,-0.1
 Brazil,2070,-0.04
 Canada,2070,-0.1
 Central America and Caribbean,2070,0.115
@@ -393,7 +393,7 @@ Africa_Eastern,2075,0.406
 Africa_Northern,2075,0.102
 Africa_Southern,2075,0.322
 Africa_Western,2075,0.17
-Australia_NZ,2075,-0.1
+NZ,2075,-0.1
 Brazil,2075,-0.062
 Canada,2075,-0.1
 Central America and Caribbean,2075,0.064
@@ -425,7 +425,7 @@ Africa_Eastern,2080,0.343
 Africa_Northern,2080,0.059
 Africa_Southern,2080,0.246
 Africa_Western,2080,0.107
-Australia_NZ,2080,-0.1
+NZ,2080,-0.1
 Brazil,2080,-0.08
 Canada,2080,-0.1
 Central America and Caribbean,2080,0.021
@@ -457,7 +457,7 @@ Africa_Eastern,2085,0.272
 Africa_Northern,2085,0.025
 Africa_Southern,2085,0.176
 Africa_Western,2085,0.04
-Australia_NZ,2085,-0.1
+NZ,2085,-0.1
 Brazil,2085,-0.099
 Canada,2085,-0.1
 Central America and Caribbean,2085,-0.02
@@ -489,7 +489,7 @@ Africa_Eastern,2090,0.194
 Africa_Northern,2090,-0.007
 Africa_Southern,2090,0.117
 Africa_Western,2090,-0.014
-Australia_NZ,2090,-0.1
+NZ,2090,-0.1
 Brazil,2090,-0.1
 Canada,2090,-0.1
 Central America and Caribbean,2090,-0.058
@@ -521,7 +521,7 @@ Africa_Eastern,2095,0.139
 Africa_Northern,2095,-0.04
 Africa_Southern,2095,0.051
 Africa_Western,2095,-0.061
-Australia_NZ,2095,-0.1
+NZ,2095,-0.1
 Brazil,2095,-0.1
 Canada,2095,-0.1
 Central America and Caribbean,2095,-0.082
@@ -553,7 +553,7 @@ Africa_Eastern,2100,0.077
 Africa_Northern,2100,-0.063
 Africa_Southern,2100,0.001
 Africa_Western,2100,-0.093
-Australia_NZ,2100,-0.1
+NZ,2100,-0.1
 Brazil,2100,-0.1
 Canada,2100,-0.1
 Central America and Caribbean,2100,-0.1

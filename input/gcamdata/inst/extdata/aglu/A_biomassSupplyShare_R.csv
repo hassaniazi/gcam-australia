@@ -11,7 +11,7 @@ GCAM_region_ID,region,preference,preference_alternative
 3,Africa_Northern,High,Low
 4,Africa_Southern,High,Low
 5,Africa_Western,High,Low
-6,Australia_NZ,High,High
+6,NZ,High,High
 7,Brazil,High,High
 8,Canada,High,High
 9,Central America and Caribbean,High,Low

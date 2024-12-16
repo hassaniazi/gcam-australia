@@ -7,7 +7,7 @@
 # ----------
 region_GCAM3,resource,subresource,maxSubResource,mid-price,curve-exponent,gdpSupplyElast
 Africa,biomass,generic waste biomass,0.12288,0.9,15,0.588
-Australia_NZ,biomass,generic waste biomass,0.0248025,0.9,15,0.588
+NZ,biomass,generic waste biomass,0.0248025,0.9,15,0.588
 Canada,biomass,generic waste biomass,0.01827,0.9,15,0.588
 China,biomass,generic waste biomass,0.1015725,0.9,15,0.588
 Eastern Europe,biomass,generic waste biomass,0.06504,0.9,15,0.588

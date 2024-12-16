@@ -10,7 +10,8 @@ Africa_Northern,food processing,food processing,food processing,non-energy,0.063
 Africa_Southern,food processing,food processing,food processing,non-energy,0.0705,0.0705,0.0705,0.0705
 Africa_Western,food processing,food processing,food processing,non-energy,0.0198,0.0198,0.0198,0.0198
 Argentina,food processing,food processing,food processing,non-energy,0.1261,0.1261,0.1261,0.1261
-Australia_NZ,food processing,food processing,food processing,non-energy,0.515,0.515,0.515,0.515
+Australia,food processing,food processing,food processing,non-energy,0.515,0.515,0.515,0.515
+NZ,food processing,food processing,food processing,non-energy,0.515,0.515,0.515,0.515
 Brazil,food processing,food processing,food processing,non-energy,0.0955,0.0955,0.0955,0.0955
 Canada,food processing,food processing,food processing,non-energy,0.3881,0.3881,0.3881,0.3881
 Central America and Caribbean,food processing,food processing,food processing,non-energy,0.1209,0.1209,0.1209,0.1209
